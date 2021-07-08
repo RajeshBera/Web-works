@@ -1,2 +1,2 @@
 # Web-works
-WEb works
+Circular image rotation with fine visual effect.
